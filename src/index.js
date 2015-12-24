@@ -112,7 +112,7 @@ module.exports = {
     'no-const-assign': 2,
     'no-this-before-super': 0,
     'no-var': 2,
-    'object-shorthand': 0,
+    'object-shorthand': [2, 'always', { 'ignoreConstructors': true }],
     'prefer-const': 2,
     'prefer-spread': 0,
     'prefer-reflect': 0,
