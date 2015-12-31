@@ -150,14 +150,8 @@ module.exports = {
     'key-spacing': [2, { 'beforeColon': false, 'afterColon': true }],
     'lines-around-comment': 0,
     'linebreak-style': 0,
-    'max-len': [2, {
-      'code': 100,
-      'comments': 100,
-      'commentLength': 100,
-      'tabWidth': 2,
+    'max-len': [2, 100, 2, {
       'ignoreUrls': false,
-      'ignorePattern': null,
-      'ignoreTrailingComments': false,
       'ignoreComments': false
     }],
     'max-nested-callbacks': 0,
