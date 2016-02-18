@@ -176,7 +176,7 @@ module.exports = {
     'operator-assignment': 0,
     'operator-linebreak': 0,
     'padded-blocks': [2, 'never'],
-    'quote-props': 0,
+    'quote-props': [2, 'as-needed', { 'keywords': true, 'unnecessary': true, 'numbers': false }],
     'quotes': [2, 'single', 'avoid-escape'],
     'id-match': 0,
     'semi-spacing': [2, { 'before': false, 'after': true }],
