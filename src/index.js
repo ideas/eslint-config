@@ -113,6 +113,7 @@ module.exports = {
     'no-this-before-super': 0,
     'no-var': 2,
     'object-shorthand': [2, 'always'],
+    'prefer-arrow-callback': 2,
     'prefer-const': 2,
     'prefer-spread': 0,
     'prefer-reflect': 0,
