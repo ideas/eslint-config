@@ -116,6 +116,7 @@ module.exports = {
     'prefer-const': 2,
     'prefer-spread': 0,
     'prefer-reflect': 0,
+    'prefer-template': 2,
     'require-yield': 0,
 
     'max-depth': [0, 4],
@@ -146,7 +147,7 @@ module.exports = {
     'func-names': 0,
     'func-style': 0,
     'id-length': 0,
-    'indent': [2, 2, { "SwitchCase": 1, "VariableDeclarator": 1 }],
+    'indent': [2, 2, { 'SwitchCase': 1, 'VariableDeclarator': 1 }],
     'key-spacing': [2, { 'beforeColon': false, 'afterColon': true }],
     'lines-around-comment': 0,
     'linebreak-style': 0,
