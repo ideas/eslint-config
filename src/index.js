@@ -1,6 +1,8 @@
+'use strict';
+
 module.exports = {
   'env': {
-    'node': true,
+    'node': true
   },
   'ecmaFeatures': {
     'arrowFunctions': true,
@@ -17,7 +19,7 @@ module.exports = {
     'objectLiteralShorthandProperties': true,
     'spread': false,
     'superInFunctions': true,
-    'templateStrings': true,
+    'templateStrings': true
   },
   'rules': {
     'accessor-pairs': 0,
@@ -211,4 +213,4 @@ module.exports = {
     'no-unused-vars': [2, { 'vars': 'local', 'args': 'none' }],
     'no-use-before-define': 2
   }
-}
+};
