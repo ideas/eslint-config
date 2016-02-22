@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/ideas/eslint-config#readme",
   "peerDependencies": {
-    "eslint": "1.10.x"
+    "eslint": "2.2.x"
   },
   "devDependencies": {
-    "eslint": "1.10.x"
+    "eslint": "2.2.x"
   }
 }
