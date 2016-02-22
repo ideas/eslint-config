@@ -34,6 +34,7 @@ module.exports = {
     'guard-for-in': 2,
     'no-alert': 1,
     'no-caller': 2,
+    'no-case-declaration': 2,
     'no-div-regex': 0,
     'no-else-return': 2,
     'no-empty-label': 2,
