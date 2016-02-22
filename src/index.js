@@ -63,7 +63,7 @@ module.exports = {
     'no-with': 2,
     'radix': 2,
     'vars-on-top': 2,
-    'wrap-iife': [2, 'any'],
+    'wrap-iife': [2, 'outside'],
     'yoda': 2,
 
     'no-cond-assign': [2, 'always'],
