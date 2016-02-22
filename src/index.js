@@ -169,7 +169,7 @@ module.exports = {
     'new-cap': [2, { 'newIsCap': true }],
     'new-parens': 0,
     'newline-after-var': 0,
-    'newline-per-chained-call': [2, { 'ignoreChainWithDepth': 3 }],
+    'newline-per-chained-call': [0, { 'ignoreChainWithDepth': 3 }],
     'no-array-constructor': 0,
     'no-continue': 0,
     'no-inline-comments': 0,
