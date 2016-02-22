@@ -182,7 +182,7 @@ module.exports = {
     'no-ternary': 0,
     'no-trailing-spaces': 2,
     'no-underscore-dangle': 0,
-    'no-unneeded-ternary': 0,
+    'no-unneeded-ternary': [2, { 'defaultAssignment': false }],
     'no-whitespace-before-property': 2,
     'object-curly-spacing': [2, 'always'],
     'one-var': [2, 'never'],
