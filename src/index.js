@@ -78,7 +78,6 @@ module.exports = {
     'wrap-iife': [2, 'any'],
     'yoda': 2,
 
-    'comma-dangle': [2, 'never'],
     'no-cond-assign': [2, 'always'],
     'no-console': 1,
     'no-constant-condition': 1,
@@ -110,6 +109,7 @@ module.exports = {
     'arrow-body-style': [2, 'as-needed'],
     'arrow-parens': [2, 'always'],
     'arrow-spacing': [2, { 'before': true, 'after': true }],
+    'comma-dangle': [2, 'never'],
     'constructor-super': 0,
     'generator-star-spacing': 0,
     'no-class-assign': 0,
