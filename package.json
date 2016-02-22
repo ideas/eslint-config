@@ -18,9 +18,6 @@
     "url": "https://github.com/ideas/eslint-config/issues"
   },
   "homepage": "https://github.com/ideas/eslint-config#readme",
-  "peerDependencies": {
-    "eslint": "2.2.x"
-  },
   "devDependencies": {
     "eslint": "2.2.x"
   }
