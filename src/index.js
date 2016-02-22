@@ -211,6 +211,7 @@ module.exports = {
     'no-catch-shadow': 0,
     'no-delete-var': 2,
     'no-implicit-globals': 0,
+    'no-label-var': 0,
     'no-self-assign': 2,
     'no-shadow-restricted-names': 2,
     'no-shadow': 0,
