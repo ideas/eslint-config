@@ -14,6 +14,6 @@ npm install --save-dev @ideapod/eslint-config
 
 ## Usage
 
-Add `"extends": "@ideapod/eslint-config"` to your `.eslintrc`.
+Add `"extends": "@ideapod/eslint-config"` to your `.eslintrc.json`.
 
 See [Ideapod's node.js styleguide](https://github.com/ideas/guides/tree/master/style/nodejs) for more information.
