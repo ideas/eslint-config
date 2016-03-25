@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ideas/eslint-config#readme",
   "devDependencies": {
-    "eslint": "2.2.x"
+    "eslint": "2.4.x"
   }
 }
