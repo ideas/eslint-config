@@ -101,7 +101,7 @@ module.exports = {
     'constructor-super': 0,
     'generator-star-spacing': 0,
     'no-class-assign': 0,
-    'no-confusing-arrow': 2,
+    'no-confusing-arrow': [2, { 'allowParens': true }],
     'no-const-assign': 2,
     'no-new-symbol': 2,
     'no-restricted-imports': 0,
