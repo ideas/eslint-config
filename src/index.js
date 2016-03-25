@@ -170,7 +170,7 @@ module.exports = {
     'new-parens': 0,
     'newline-after-var': 0,
     'newline-per-chained-call': [0, { 'ignoreChainWithDepth': 3 }],
-    'no-array-constructor': 0,
+    'no-array-constructor': 2,
     'no-continue': 0,
     'no-inline-comments': 0,
     'no-lonely-if': 0,
