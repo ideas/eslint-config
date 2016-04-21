@@ -103,6 +103,7 @@ module.exports = {
     'no-class-assign': 0,
     'no-confusing-arrow': [2, { 'allowParens': true }],
     'no-const-assign': 2,
+    'no-dupe-class-members': 2,
     'no-new-symbol': 2,
     'no-restricted-imports': 0,
     'no-this-before-super': 0,
