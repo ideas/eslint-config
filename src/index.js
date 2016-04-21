@@ -15,7 +15,7 @@ module.exports = {
     'default-case': 2,
     'dot-notation': [2, { 'allowKeywords': true }],
     'dot-location': 0,
-    'eqeqeq': 2,
+    'eqeqeq': [2, 'allow-null'],
     'guard-for-in': 2,
     'id-blacklist': 0,
     'no-alert': 1,
